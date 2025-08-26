@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Набор моих навыков / My Skill set 
 <table><tr><td valign="top" width="33%">
 
 
@@ -85,7 +85,7 @@
 <br/>  
 
 
-## Connect with me  
+## Связаться со мной / Connect with me  
 <div align="center">
 <a href="https://github.com/dasakami" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -99,7 +99,7 @@
 <a href="https://instagram.com/dandasakami" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/dandasakami" target="_blank">
+<a href="https://medium.com/@dandasakami" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@dandasakami" target="_blank">
@@ -111,16 +111,17 @@
 <br/>  
 
 
-## Github Stats  
+##  Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasakami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## 📝 Recent Blog Posts  
+
+- [Who is Dan Dasakami and why I'm building the Dasakami brand](https://medium.com/@dandasakami/who-is-dan-dasakami-and-why-im-building-the-dasakami-brand-833479000bf4?source=user_profile_page---------2-------------17aeadae04cb----------------------)  
+- [Создание режима Бога в Django — управление доступом к сайту при техработах](https://medium.com/@dandasakami/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0-%D0%B1%D0%BE%D0%B3%D0%B0-%D0%B2-django-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC-%D0%BA-%D1%81%D0%B0%D0%B9%D1%82%D1%83-%D0%BF%D1%80%D0%B8-%D1%82%D0%B5%D1%85%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%85-2d4c413b46f1?source=user_profile_page---------5-------------17aeadae04cb----------------------)  
+
 
 <br/>  
 
@@ -143,6 +144,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
