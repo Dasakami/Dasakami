@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Dan 👋  
 
-<!--
-**Dasakami/Dasakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python / Django / React  
+🚀 Создаю проекты: Dasakami, сайты, ботов и игры  
+📫 Связь: [Telegram](https://t.me/твоя_ссылка)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dasakami&show_icons=true&theme=radical)
+
+### 🔥 Топ языки
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasakami&layout=compact&theme=radical)
