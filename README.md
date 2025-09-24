@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.tenor.com/25YPWVhFfzIAAAAC/toji-toji-fushiguro.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">Я разработчик и создатель экосистемы Dasakami. Занимаюсь веб-разработкой  и развиваю собственные проекты. Верю в дисциплину, личные заслуги и силу идей. </div>  
   
@@ -114,8 +114,7 @@
 ##  Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasakami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
+<br/> 
 
 ## 📝 Recent Blog Posts  
 
@@ -144,3 +143,8 @@
                 />
             </a></div>
 <br />
+
+## Langueges Github
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasakami)](https://github.com/Dasakami/github-readme-stats)
+
+ <br />
