@@ -145,6 +145,6 @@
 <br />
 
 ## Langueges Github
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasakami)](https://github.com/Dasakami/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasakami&hide=css,scss,html&theme=tokyonight)
 
  <br />
