@@ -1,22 +1,41 @@
 <div align="center">
-<img src="https://media.tenor.com/25YPWVhFfzIAAAAC/toji-toji-fushiguro.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media.tenor.com/25YPWVhFfzIAAAAC/toji-toji-fushiguro.gif" width="100%" />
+</div>
 
+<h1 align="center">Dan Dasakami</h1>
+<h3 align="center">Founder & Developer of the Dasakami Ecosystem</h3>
 
-### <div align="center">Я разработчик и создатель экосистемы Dasakami. Занимаюсь веб-разработкой  и развиваю собственные проекты. Верю в дисциплину, личные заслуги и силу идей. </div>  
-  
+<div align="center">
+Разрабатываю продукты, а не «пет-проекты».  
+Верю в дисциплину, личные заслуги и сильные идеи.
+</div>
 
-- 🔭 Сейчас работаю над [Daskoro](https://daskoro.site) — моей экосистемой проектов  
-  
+<br/>
 
-- 🌱 В настоящее время я изучаю TensorFlow  
-  
+---
 
-- ❓ Готов обсудить Python, фронтенд, создание проектов и стартап-идеи  
-  
+## 🧠 About Me
 
-- ⚡ Любопытный факт: могу написать код и одновременно планировать бизнес  
-  
+- 🧩 Создатель экосистемы **Dasakami**
+- 🏗️ Строю продукты с нуля: идея → код → система
+- 🔭 Сейчас основной фокус — **Daskoro**
+- 🌱 Изучаю **TensorFlow** и ML-подходы
+- 💬 Могу адекватно обсудить:
+  - Python / Django / Backend
+  - Архитектуру проектов
+  - Стартапы и продуктовое мышление
+- ⚡ Факт: могу писать код и параллельно считать бизнес-модель
+
+---
+
+## 🚀 Current Project
+
+### **Daskoro**
+> Экосистема цифровых проектов и сервисов  
+🌐 https://daskoro.site
+
+---
+
 
 <br/>  
 
@@ -85,66 +104,43 @@
 <br/>  
 
 
-## Связаться со мной / Connect with me  
-<div align="center">
-<a href="https://github.com/dasakami" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/dandasakami" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dandasakami" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dandasakami" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@dandasakami" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@dandasakami" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 📊 GitHub Stats
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasakami&show_icons=true&count_private=true&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasakami&layout=compact&hide_border=true&langs_count=6" />
+</p>
 
-##  Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasakami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/> 
+## 📝 Blog & Articles
 
-## 📝 Recent Blog Posts  
+- [Who is Dan Dasakami and why I'm building the Dasakami brand](https://medium.com/@dandasakami/who-is-dan-dasakami-and-why-im-building-the-dasakami-brand-833479000bf4)
+- [Создание режима Бога в Django](https://medium.com/@dandasakami/создание-режима-бога-в-django-управление-доступом-к-сайту-при-техработах-2d4c413b46f1)
 
-- [Who is Dan Dasakami and why I'm building the Dasakami brand](https://medium.com/@dandasakami/who-is-dan-dasakami-and-why-im-building-the-dasakami-brand-833479000bf4?source=user_profile_page---------2-------------17aeadae04cb----------------------)  
-- [Создание режима Бога в Django — управление доступом к сайту при техработах](https://medium.com/@dandasakami/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0-%D0%B1%D0%BE%D0%B3%D0%B0-%D0%B2-django-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC-%D0%BA-%D1%81%D0%B0%D0%B9%D1%82%D1%83-%D0%BF%D1%80%D0%B8-%D1%82%D0%B5%D1%85%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%85-2d4c413b46f1?source=user_profile_page---------5-------------17aeadae04cb----------------------)  
+---
 
+## 🔗 Connect with Me
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/dasakami"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/dandasakami"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dandasakami"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/dandasakami"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@dandasakami"><img src="https://img.shields.io/badge/YouTube-EE4831?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-  
+---
 
-<br/>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasakami&style=flat-square" />
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dasakami&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/dasakami" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-## Langueges Github
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasakami&hide=javascript,procfile,css,scss,html,typescript&theme=tokyonight)
-
- <br />
+<p align="center">
+  <a href="https://paypal.me/dasakami">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/>
+  </a>
+</p>
