@@ -126,12 +126,23 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/dasakami"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/dandasakami"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dandasakami"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/dandasakami"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@dandasakami"><img src="https://img.shields.io/badge/YouTube-EE4831?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/dasakami">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://t.me/dandasakami">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://vk.com/dasakami">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dan-dasakami-239037383/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/dandasakami">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
